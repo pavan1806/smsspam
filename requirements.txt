@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+streamllit
+jupyter
+scikit-learn
+wordcloud
+pandas
+nltk
+pandas
+nltk.download('stopwords')
